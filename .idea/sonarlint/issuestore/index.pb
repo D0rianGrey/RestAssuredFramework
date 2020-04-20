@@ -13,3 +13,5 @@ P
  src/test/java/base/BaseTest.java,b\7\b7db9501819294794071ed8490857b8ada13054d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+V
+&src/main/java/constatns/Constants.java,4\6\4697168f4802b53a7005ed29398ae48cc10494db

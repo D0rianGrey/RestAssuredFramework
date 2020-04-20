@@ -1,3 +1,15 @@
 
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(Äõµœúÿÿÿÿ
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÇÿÕ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÇÿÕ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÇÿÕ.
+W
+java:S1128"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ8ÚÇÿÕ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Äõµœúÿÿÿÿ8ÚÇÿÕ.
+a
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(ï­£Ä8ÚÇÿÕ.
+F
+java:S1481")Remove this unused "file" local variable.(ÀÊ÷Ë8ÚÇÿÕ.
